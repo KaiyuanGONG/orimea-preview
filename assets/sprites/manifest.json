@@ -1,0 +1,566 @@
+{
+ "pxPerMm": 13.333333333333334,
+ "cell": 256,
+ "shadowCell": 128,
+ "groups": {
+  "round-clear-quartz": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-clear-quartz-pure": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-smoky-quartz": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-sea": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-frost-sage": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-amber": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-citrine": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-amethyst": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-green-phantom": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-garnet": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-aquamarine": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-peridot": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-wine": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-violet": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-aqua": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-clear": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-rose-quartz": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-black-onyx": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-black-onyx-matte": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-silver-925": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-silver-925-satin": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-silver-925-hammered": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-steel-316l": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-ceramic-sage": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-ceramic-ivory": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-ceramic-ink": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-obsidian": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-tiger-eye": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-moonstone": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-chrysoprase": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-carnelian": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-lapis-lazuli": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-turquoise": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-glass-opal": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "round-ceramic-clay": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 8,
+    "W": 8
+   }
+  },
+  "lampwork": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 12,
+    "W": 12
+   }
+  },
+  "pearl": {
+   "n": 4,
+   "angles": [
+    15,
+    55,
+    95,
+    135
+   ],
+   "ref": {
+    "L": 7,
+    "W": 7
+   }
+  },
+  "disc-silver-925": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 1,
+    "W": 6
+   }
+  },
+  "disc-steel-316l": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 1,
+    "W": 6
+   }
+  },
+  "tube-silver-925": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 10,
+    "W": 3.2
+   }
+  },
+  "tube-silver-925-satin": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 10,
+    "W": 3.2
+   }
+  },
+  "crimp-silver-925": {
+   "n": 1,
+   "angles": null,
+   "ref": {
+    "L": 3.4,
+    "W": 3.4
+   }
+  },
+  "ring-silver-925": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 4,
+    "W": 4
+   }
+  },
+  "link-a": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 4.2,
+    "W": 3.0
+   }
+  },
+  "link-b": {
+   "n": 6,
+   "angles": [
+    0,
+    30,
+    60,
+    90,
+    120,
+    150
+   ],
+   "ref": {
+    "L": 4.2,
+    "W": 3.0
+   }
+  }
+ },
+ "stage": {
+  "mm": 99.975
+ },
+ "floor": {
+  "light": "#c9c3bc",
+  "dark": "#4a4a4b"
+ },
+ "bangles": {
+  "silver-925-hammered": {
+   "x": -49.9875,
+   "y": -49.9875,
+   "w": 97.875,
+   "h": 99.975,
+   "pw": 1305,
+   "ph": 1333
+  },
+  "silver-925-satin": {
+   "x": -49.9875,
+   "y": -49.9875,
+   "w": 97.875,
+   "h": 99.975,
+   "pw": 1305,
+   "ph": 1333
+  }
+ },
+ "bangleR": 30.73803043943842
+}
